@@ -1,0 +1,13 @@
+### Missing 3D models - created on 2026-09-03 23:14
+### Printed by checking_3D_models plugin
+Board file: /home/akshit/Documents/KiCad/9.0/projects/Zeen-AI-Plug/Hardware/ZAP-010A/ZAP-010A.kicad_pcb
+3D missing models written to:
+/home/akshit/Documents/KiCad/9.0/projects/Zeen-AI-Plug/Hardware/ZAP-010A/ZAP-010A_missing3Dmodels.txt
+-------
+('F1', '/usr/share/kicad/3dmodels/Fuse.3dshapes/Fuse_Littelfuse_395Series.step')
+('J2', '/usr/share/kicad/3dmodels/Connector_USB.3dshapes/USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A.step')
+('J1', '/usr/share/kicad/3dmodels/TerminalBlock_CUI.3dshapes/TerminalBlock_CUI_TB007-508-04_1x04_P5.08mm_Horizontal.step')
+('K1', '/usr/share/kicad/3dmodels/Relay_THT.3dshapes/Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T.step')
+-------
+NUM of 3D missing models:4
+checked extensions ['.stp', '.step', '.stpZ']
