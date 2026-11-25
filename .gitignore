@@ -1,0 +1,6 @@
+# KiCad Local Settings & Temporary Files
+*.kicad_prl
+~*.lck
+*.kicad_pro.lck
+*-backups/
+\#auto_saved_files#
